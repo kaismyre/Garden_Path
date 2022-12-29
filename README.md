@@ -15,5 +15,5 @@ There are many tools and libraries available for NLP, including NLTK, spaCy, and
 
 ![image](https://user-images.githubusercontent.com/61679674/209988184-7fe202fe-44c3-49a9-8070-b13f44de7730.png)
 
-You can run this program on your Terminal or Command Promt by typing docker run garden_path one you save a copy on your local machine
+You can run this program on your Terminal or Command Promt by typing docker run garden_path once a copy is saved on your local machine
 You can clone this project by typing git clone ssh://github.com/kaismyre/Garden_Path.git on your Terminal or Command Promt 
